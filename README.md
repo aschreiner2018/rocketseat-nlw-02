@@ -32,12 +32,12 @@ Desenvolvido em React Native
 **(Para testar: Expo) yarn start
 
 ## screenshots
-<img src="screenshots/mobile/01.png" width="100%" height="100%">
-<img src="screenshots/mobile/02.png" width="100%" height="100%">
-<img src="screenshots/mobile/03.png" width="100%" height="100%">
-<img src="screenshots/mobile/04.png" width="100%" height="100%">
-<img src="screenshots/mobile/05.png" width="100%" height="100%">
-<img src="screenshots/mobile/06.png" width="100%" height="100%">
+<img src="screenshots/mobile/01.jpg" width="100%" height="100%">
+<img src="screenshots/mobile/02.jpg" width="100%" height="100%">
+<img src="screenshots/mobile/03.jpg" width="100%" height="100%">
+<img src="screenshots/mobile/04.jpg" width="100%" height="100%">
+<img src="screenshots/mobile/05.jpg" width="100%" height="100%">
+<img src="screenshots/mobile/06.jpg" width="100%" height="100%">
 
 ### Tecnologias e Bibliotecas utilizadas
 • TypeScript
