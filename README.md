@@ -7,7 +7,7 @@ Trata de uma solução (Ecoleta) que é feito através de uma página Web o cada
 # backend
 Desenvolvido em NodeJS
 
-**(Para testar) yarn dev
+**(Para testar) yarn start
 (http://localhost:3333)
 
 ## screenshots
@@ -21,10 +21,10 @@ Desenvolvido em ReactJS
 (http://localhost:3000)
 
 ## screenshots
-<img src="screenshot2.png" width="100%" height="100%">
-<img src="screenshot0.png" width="100%" height="100%">
-<img src="screenshot4.png" width="100%" height="100%">
-<img src="screenshot3.png" width="100%" height="100%">
+<img src="screenshots/web/01.png" width="100%" height="100%">
+<img src="screenshots/web/02.png" width="100%" height="100%">
+<img src="screenshots/web/03.png" width="100%" height="100%">
+<img src="screenshots/web/04.png" width="100%" height="100%">
 
 # mobile
 Desenvolvido em React Native
@@ -32,10 +32,12 @@ Desenvolvido em React Native
 **(Para testar: Expo) yarn start
 
 ## screenshots
-<img src="screenshot5.png" width="40%" height="40%">
-<img src="screenshot6.png" width="40%" height="40%">
-<img src="screenshot7.png" width="40%" height="40%">
-<img src="screenshot8.png" width="40%" height="40%">
+<img src="screenshots/mobile/01.png" width="100%" height="100%">
+<img src="screenshots/mobile/02.png" width="100%" height="100%">
+<img src="screenshots/mobile/03.png" width="100%" height="100%">
+<img src="screenshots/mobile/04.png" width="100%" height="100%">
+<img src="screenshots/mobile/05.png" width="100%" height="100%">
+<img src="screenshots/mobile/06.png" width="100%" height="100%">
 
 ### Tecnologias e Bibliotecas utilizadas
 • TypeScript
@@ -46,13 +48,11 @@ Desenvolvido em React Native
 
 • CORS
 
+• Express
+
 • React-Icons (Feather Icons)
 
 • React-Router-DOM
-
-• Leaflet
-
-• React-Leaflet
 
 • Axios
 
@@ -60,17 +60,7 @@ Desenvolvido em React Native
 
 • Expo-Google-Fonts
 
-• Expo-Constants
-
-• Expo-React-Native-Maps
-
-• Expo-React-Native-Svg
-
-• Expo-Location
-
-• Expo-Mail-Composer
-
-• React-Navigation
+• React-Navigation (Stack/Tabs)
 
 • React-Native-Gesture-Handler
 
@@ -82,12 +72,4 @@ Desenvolvido em React Native
 
 • React-Native-Picker-Select
 
-• React-Dropzone
-
-• Masked-View
-
-• Multer
-
-• Yup
-
-• Celebrate
+• Async Storage
