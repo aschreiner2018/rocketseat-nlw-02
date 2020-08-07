@@ -2,7 +2,7 @@
 Projeto contruído durante o Next Level Week #02
 
 # Descritivo
-Trata de uma solução (Ecoleta) que é feito através de uma página Web o cadastro de pontos de coleta de resíduos e seus respectivos items. Também contempla um app Mobile onde se é informado no mapa pontos previamente cadastrados e que estejam próximos do local de acesso do app.
+Trata de uma solução (Proffy), que é uma plataforma de estudos, onde alunos e professores poderão se encontrar, aprender e ensinar. Foi construído um site responsivo utilizando o conceito de Mobile First, para depois se adaptar a tela do computador. Já a versão Mobile possibilita que os alunos encontrem os professores cadastrados na plataforma Web.
 
 # backend
 Desenvolvido em NodeJS
